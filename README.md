@@ -1,2 +1,2 @@
 # sna
-Social Networks Analytics
+Social Network Analytics with Python3
